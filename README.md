@@ -2,11 +2,12 @@
 <h3 align="center">💻 Passionate Frontend Developer | Fiverr</h3>
 
 <p align="center">
-  <img src="https://github.com/INamulhaqsain786/INamulhaqsain786/blob/main/ProfilePic.png?raw=true" alt="Net Logo" height="500px" width="100%"/>
+  <img src="https://github.com/Inamulhaqsain786/Inamulhaqsain786/blob/main/ProfilePic.png?raw=true" alt="Net Logo" height="500px" width="100%"/>
 </p>
+
 - 🚀 Currently working as a **Freelance .NET Developer** on [**Fiverr**]()
 - 🧠 Skilled in **HTML**, **JS**, **CSS**, **React**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/INamulhaqsain786/">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Inamulhaqsain786/">My Portfolio</a>
 - 💬 Ask me about **Frontend Development**
 
 <h3 align="left">Connect with me:</h3>
@@ -53,17 +54,17 @@
 
 <!-- Top Languages Card (Compact Layout) -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=INamulhaqsain786&show_icons=true&locale=en&layout=compact&theme=dark" alt="INamulhaqsain786" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Inamulhaqsain786&show_icons=true&locale=en&layout=compact&theme=dark" alt="Inamulhaqsain786" />
 </p>
 
 <!-- GitHub Stats Card (Dark Theme for Pro Look) -->
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=INamulhaqsain786&show_icons=true&locale=en&theme=dark" alt="INamulhaqsain786" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Inamulhaqsain786&show_icons=true&locale=en&theme=dark" alt="Inamulhaqsain786" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=INamulhaqsain786&theme=dark" alt="INamulhaqsain786" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inamulhaqsain786&theme=dark" alt="Inamulhaqsain786" />
 </p>
 
 <h3 align="left">📊 GitHub Insights</h3>
