@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://github.com/INamulhaqsain786/INamulhaqsain786/blob/main/ProfilePic.png?raw=true" alt="Net Logo" height="500px" width="100%"/>
 </p>
-
 - 🚀 Currently working as a **Freelance .NET Developer** on [**Fiverr**]()
 - 🧠 Skilled in **HTML**, **JS**, **CSS**, **React**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/INamulhaqsain786/">My Portfolio</a>
