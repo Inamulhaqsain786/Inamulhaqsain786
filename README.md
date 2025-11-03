@@ -5,9 +5,9 @@
   <img src="skill.png" alt="Net Logo" height="500px" width="100%"/>
 </p>
 
-- 🚀 Currently working as a **Freelance .NET Developer** on [**Fiverr**]()
+- 🚀 Currently working as a **Freelance .NET Developer** on [**Fiverr**](https://www.fiverr.com/users/inamulhaq_malik/seller_dashboard)
 - 🧠 Skilled in **HTML**, **JS**, **CSS**, **React**
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Inamulhaqsain786/">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://inamulhaqsain786.github.io/myEcommerceWeb/blog.html">My Portfolio</a>
 - 💬 Ask me about **Frontend Development**
 
 <h3 align="left">Connect with me:</h3>
